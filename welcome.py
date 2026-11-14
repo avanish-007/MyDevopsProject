@@ -1,2 +1,3 @@
 print("Welcome to DevOps")
-print("learn devops")
+print("new line")
+print("git test")
